@@ -1,0 +1,28 @@
+/* Header */
+header {
+    display: flex;
+    width: 100%;
+    margin: 0px;
+    background-color: black;
+}
+header h1 {
+    color: white;
+    font-size: 16px;
+    margin-left: 20px;
+}
+/* Body*/
+
+
+/* Footer */
+footer {
+    background-color: whitesmoke;
+    display: flex;
+    flex-basis: 100%;
+    justify-content: center;
+    align-items: center;
+    height: 180px;
+}
+
+footer span {
+    font-size: 50px;
+}
