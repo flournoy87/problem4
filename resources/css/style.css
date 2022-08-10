@@ -11,6 +11,15 @@ header h1 {
     margin-left: 20px;
 }
 /* Body*/
+h2 {
+    font-size: 40px;
+}
+#content {
+    display: flex;
+    flex-direction: column;
+    margin-left: 80px;
+    margin-right: 80px;
+}
 .post {
     display: flex;
     flex-direction: column;
