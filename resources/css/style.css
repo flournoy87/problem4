@@ -11,8 +11,11 @@ header h1 {
     margin-left: 20px;
 }
 /* Body*/
-h2 {
-    
+.post {
+    display: flex;
+    flex-direction: column;
+    background-color: lightblue;
+    margin-bottom: 10px;
 }
 
 /* Footer */
