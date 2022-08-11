@@ -20,6 +20,10 @@ h2 {
     margin-left: 80px;
     margin-right: 80px;
 }
+.search {
+    margin-bottom: 10px;
+    
+}
 .post {
     display: flex;
     flex-direction: column;
